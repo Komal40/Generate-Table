@@ -1,0 +1,9 @@
+table tr {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+  margin-top: 5rem;
+}
